@@ -1,0 +1,8 @@
+{
+  "name": "certbot-helper",
+  "version": "0.1",
+  "description": "Serve the .well-known folder etc...",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
